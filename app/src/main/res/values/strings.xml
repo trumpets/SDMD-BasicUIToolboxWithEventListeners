@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BasicUIToolboxWithEventListeners</string>
+    <string name="hello_text_view">Hello from the Text View!</string>
+    <string name="toast_please">Toast please!</string>
+    <string name="hint_enter_name">Please enter your name</string>
+    <string name="say_hello">Say Hello</string>
+    <string name="msg_toast">Toast is gooood!</string>
+</resources>
